@@ -1,0 +1,26 @@
+title: Flowinho
+email: contact@flowinho.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Hey there. I'm a loving father, part-time podcaster and iOS developer from southern Germany.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: flowinho
+github_username: flowinho
+show_excerpts: false
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

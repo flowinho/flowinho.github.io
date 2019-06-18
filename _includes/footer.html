@@ -1,0 +1,52 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+            <li>
+              <a href={{ "/impressum/" | relative_url }}><br />Impressum</a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+    
+    <div>
+      <p class="fineprint">
+          Opinions expressed in this blog are mine and mine alone. 
+          I will not track your visit here. Therefor no cookies. 
+          Unfortunately this also means no comments and other interactive stuff. 
+          If you want to comment on anything, feel free to write me an eMail or contact me on <a href="https://www.twitter.com/flowinho">Twitter</a>. 
+          I have no control over what GitHub does while serving <a href="https://pages.github.com/">GitHub Pages</a>. 
+          Please be aware of that. I thrive to keep this sites code as clean as possible. 
+          If you want to have a look at it out checkout my <a href="https://github.com/flowinho">GitHub</a>.
+      </p>
+      <p class="oss-greeting">
+        Proudly and statically generated using the accomplishments of the OpenSource community of <a href="https://jekyllrb.org">Jekyll</a>. To honor their work this sites code will be altered as less as possible.
+      </p>
+    </div>
+
+  </div>
+
+</footer>
