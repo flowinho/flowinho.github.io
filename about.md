@@ -15,7 +15,7 @@ permalink: /about/
 
 <div class="note">
     <span>
-    The Opinions and thoughts written on this website are mine and mine alone. None of the content published here reflects any opinion of my past or present employers. 
+    The opinions and thoughts written on this website are mine and mine alone. None of the content published here reflects any opinion of my past or present employers. 
     </span>
 </div>
 
