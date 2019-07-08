@@ -13,4 +13,10 @@ permalink: /about/
     <br />
 </div>
 
+<div class="note">
+    <span>
+    The Opinions and thoughts written on this website are mine and mine alone. None of the content published here reflects any opinion of my past or present employers. 
+    </span>
+</div>
+
 I'm currently living in the beautiful baroque city of Ludwigsburg in Southern Germany, right next to Stuttgart - the city with the car problem, you recall?
