@@ -3,12 +3,15 @@ email: contact@flowinho.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hey there. I'm a loving father, part-time podcaster and iOS developer from southern Germany.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://flowinho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://flowinho.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: flowinho
 github_username: flowinho
 show_excerpts: false
 # Build settings
 markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
 theme: minima
 plugins:
   - jekyll-feed
