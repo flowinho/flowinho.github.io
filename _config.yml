@@ -9,6 +9,7 @@ twitter_username: flowinho
 github_username: flowinho
 show_excerpts: false
 future: false
+exclude: [vendor]
 # Build settings
 markdown: kramdown
 kramdown:
