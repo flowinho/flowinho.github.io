@@ -95,8 +95,8 @@ Current employment | [Robert Bosch GmbH](https://www.bosch.de/), Software Engin
 10/12 - 04/13
 
 - Gamephysics: Converting finger-movement into physical forces and water currents.
-- Technical implementation of video game levels, physics and user-interface using [Unity3d](https://unity.com).
-- Implementation of graphical novel using parallax 3d comic panels in [Unity3d](https://unity.com).
+- Technical implementation of video game levels, physics and user-interface using [Unity3D](https://unity.com).
+- Implementation of graphical novel using parallax 3d comic panels in [Unity3D](https://unity.com).
 
 <br />
 

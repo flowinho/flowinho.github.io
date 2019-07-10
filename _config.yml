@@ -1,5 +1,6 @@
 title: Flowinho
 email: contact@flowinho.com
+author: Florian Schuttkowski
 description: >- # this means to ignore newlines until "baseurl:"
   Hey there. I'm a loving father, part-time podcaster and iOS developer from southern Germany.
 baseurl: "" # the subpath of your site, e.g. /blog
