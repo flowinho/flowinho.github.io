@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="float:right;" src="https://travis-ci.com/flowinho/flowinho.github.io.svg?branch=master">
+<img alt="build-status" style="float:right;" src="https://travis-ci.com/flowinho/flowinho.github.io.svg?branch=master">
 <br />
 <div class="note">
 <span>

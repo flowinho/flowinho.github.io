@@ -6,7 +6,7 @@ permalink: /about/
 
 <br />
 <div align="center">
-    <img class="author-image" src="/assets/flowinho.jpg">
+    <img alt="author-image" class="author-image" src="/assets/flowinho.jpg">
     <br />
     <br />
     <h4>Yes, i'm more than just a techie. I create a <a href="https://audiodump.de/">podcast</a> that you can listen to 🎧, love the <a href="https://soundcloud.com/flowinhosmusic/">music</a> that you don't listen to 🙉 , write a <a href="{{ "/" | relative_url }}">blog</a> that you just cannot listen to ✍🏻 and give the advice that my daughters don't listen to 🤦🏻‍♂️.</h4>

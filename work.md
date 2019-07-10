@@ -6,7 +6,7 @@ permalink: /work/
 
 <br />
 <div align="center">
-    <img src="/assets/myscotty.jpg">
+    <img alt="iphones" src="/assets/myscotty.jpg">
     <br />
     <br />
     <br />
