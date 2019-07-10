@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Calculating the on-screen user position in GoogleMapsService"
+tags: code
 ---
 
 So my UX colleague wanted to have a custom “My Position” button visible in a map-related project i’m currently working on. It offers context-aware functionality depending on wether the users position is currently visible on the screen or not. Here’s the solution i came up with.

@@ -7,4 +7,8 @@
   {%- feed_meta -%}
   <link rel="stylesheet" href="{{"/assets/shariff/shariff.complete.css" | relative_url}}">
   <link rel="stylesheet" href="{{"/assets/prism/prism.css" | relative_url}}">
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
+
 </head>
