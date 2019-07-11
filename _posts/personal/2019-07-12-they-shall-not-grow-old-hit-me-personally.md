@@ -30,4 +30,3 @@ Never watch this with your kids.
 This is not an enjoyable movie. It's a very important movie - but by no means "fun".
 
 It's reality. And this movie reminds me of an old saying: "Nothing is as cruel as the truth."
-
