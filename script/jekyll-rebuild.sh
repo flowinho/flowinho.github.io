@@ -10,5 +10,5 @@ fi
 set -e
 
 echo "Commit and push"
-git commit --allow-empty
-git push origin master
+git commit --allow-empty -m "Travis CI"
+git push
