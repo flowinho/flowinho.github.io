@@ -11,4 +11,4 @@ set -e
 
 echo "Commit and push"
 git commit --allow-empty -m "Travis CI"
-git push $GH_TOKEN@origin HEAD:master
+git push "https://$GH_TOKEN@github.com/flowinho/flowinho.github.io" HEAD:master
