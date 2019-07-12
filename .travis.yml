@@ -32,8 +32,7 @@ notifications:
   email: true
   
 deploy:
-  skip_cleanup: true
   provider: script
-  script: bash ./scripts/jekyll-rebuild.sh
+  script: bash scripts/jekyll-rebuild.sh
   on:
     branch: master
