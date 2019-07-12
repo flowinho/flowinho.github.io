@@ -11,4 +11,4 @@ set -e
 
 echo "Commit and push"
 git commit --allow-empty -m "Travis CI"
-git push
+git push origin HEAD:master
