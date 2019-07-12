@@ -10,11 +10,7 @@ fi
 set -e
 
 echo "Commit and push"
+git add -A .
 git commit -m "rebuild pages" --allow-empty
 git status
 git push origin master
-
-# remove last empty commit
-echo "Removing last commit"
-git reset HEAD~
-git push origin master --force
