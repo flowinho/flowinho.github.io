@@ -1,3 +1,5 @@
+[skip travis]
+
 language: ruby
 rvm:
   - 2.4.1
