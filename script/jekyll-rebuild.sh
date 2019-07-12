@@ -23,7 +23,8 @@ git clone https://${GH_TOKEN}@github.com/flowinho/flowinho.github.io --branch ma
 cd _site
 git config user.email "contact@flowinho.com"
 git config user.name "Flowinho"
-git commit -a -m "rebuild pages" --allow-empty
+git add .
+git commit -m "rebuild pages" --allow-empty
 git push origin master
 
 # remove last empty commit
