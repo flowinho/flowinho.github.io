@@ -9,8 +9,9 @@ fi
 # enable error reporting to the console
 set -e
 
+echo "Get changes"
+git pull
+
 echo "Commit and push"
-git add -A .
-git commit -m "rebuild pages" --allow-empty
-git status
-git push origin master
+git commit --allow-empty -m "Travis CI"
+git push "https://$GH_TOKEN@github.com/flowinho/flowinho.github.io" HEAD:master
