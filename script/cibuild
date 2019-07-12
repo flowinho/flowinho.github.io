@@ -3,8 +3,3 @@ set -e # halt script on error
 
 bundle exec jekyll build
 
-deploy:
-  provider: script
-  script: bash scripts/jekyll-rebuild.sh
-  on:
-    branch: master
