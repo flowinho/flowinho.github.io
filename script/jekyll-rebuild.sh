@@ -9,24 +9,6 @@ fi
 # enable error reporting to the console
 set -e
 
-# cleanup "_site"
-rm -rf _site
-mkdir _site
-
-# clone remote repo to "_site"
-git clone https://${GH_TOKEN}@github.com/flowinho/flowinho.github.io --branch master _site
-
-# build with Jekyll into "_site"
-# exec jekyll build
-
-# push empty commit
-cd _site
-echo "Setting up git"
-git config user.email "contact@flowinho.com"
-git config user.name "Flowinho"
-git status
-git add .
-git status
 echo "Commit and push"
 git commit -m "rebuild pages" --allow-empty
 git status
