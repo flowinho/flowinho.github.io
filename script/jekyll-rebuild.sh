@@ -10,7 +10,5 @@ fi
 set -e
 
 echo "Commit and push"
-git add -A .
-git commit -m "rebuild pages" --allow-empty
-git status
+git commit --allow-empty
 git push origin master
