@@ -21,12 +21,18 @@ git clone https://${GH_TOKEN}@github.com/flowinho/flowinho.github.io --branch ma
 
 # push empty commit
 cd _site
+echo "Setting up git"
 git config user.email "contact@flowinho.com"
 git config user.name "Flowinho"
+git status
 git add .
+git status
+echo "Commit and push"
 git commit -m "rebuild pages" --allow-empty
+git status
 git push origin master
 
 # remove last empty commit
+echo "Removing last commit"
 git reset HEAD~
 git push origin master --force
