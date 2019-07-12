@@ -1,4 +1,5 @@
-[skip travis]
+# Skip Travis commits to avoid endless loop
+if: commit_message != "Travis CI"
 
 language: ruby
 rvm:
