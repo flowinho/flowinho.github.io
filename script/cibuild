@@ -4,9 +4,9 @@ set -e # halt script on error
 #bundle exec jekyll build
 #bundle exec htmlproofer ./_site --disable-external
 
-language: ruby
-rvm:
-  - 2.4.4
+#language: ruby
+#rvm:
+ # - 2.4.4
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
