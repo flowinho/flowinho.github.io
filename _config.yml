@@ -8,6 +8,7 @@ url: "https://flowinho.com" # the base hostname & protocol for your site, e.g. h
 twitter_username: flowinho
 github_username: flowinho
 show_excerpts: false
+timezone: Europe/Berlin
 future: false
 exclude: [vendor]
 # Build settings
