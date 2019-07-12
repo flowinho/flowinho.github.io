@@ -4,6 +4,7 @@ rvm:
 
 before_script:
  - chmod +x ./script/cibuild # or do this locally and commit
+ - chmod +x ./script/jekyll-rebuild.sh 
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
@@ -33,6 +34,7 @@ notifications:
   
 deploy:
   provider: script
-  script: bash scripts/jekyll-rebuild.sh
+  skip_cleanup: true
+  script: bash script/jekyll-rebuild.sh
   on:
     branch: master
