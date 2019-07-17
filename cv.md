@@ -15,7 +15,8 @@ contact [at] flowinho [dot com]
 
 Where and for how long.
 
-Current employment | [Robert Bosch GmbH](https://www.bosch.de/), Software Engineer at Connected Mobility Solutions Product Area Urban Mobility
+Current employment | [Robert Bosch GmbH](https://www.bosch.de/), Software Engineer at Connected Mobility Solutions, Engineering Software Brokering Solutions
+09/18 - 06/19 | [Robert Bosch GmbH](https://www.bosch.de/), Software Engineer at Connected Mobility Solutions Product Area Urban Mobility
 09/17 - 08/18 | [Robert Bosch GmbH](https://www.bosch.de/), Software Engineer at Grow platform GmbH, myScotty
 03/15 - 08/17 | [Zeitland media and games GmbH](https://zeitland.com/), Technical Director
 03/14 - 02/15 | [Zeitland media and games GmbH](https://zeitland.com/), Software Engineer
