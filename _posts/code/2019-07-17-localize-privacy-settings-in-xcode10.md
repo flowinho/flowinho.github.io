@@ -17,7 +17,7 @@ The popup itself is localized by the iOS system dialogs, however the string that
 As it turns out, you have to create a separarte, localized `InfoPlist.strings` file that does the work. 
 While doing for this for a project with several target configurations, mainly to distinguish DEV and PROD environments, i've encountered some weird issues regarding how Xcode handles these files, so i decided to document this process here.
 
-## The creation of your localization file.
+## The creation of your localization file
 
 First off, check the names of all your Bundle-Configuration property-list. In my case i had:
 
