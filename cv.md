@@ -35,9 +35,15 @@ Current employment | [Robert Bosch GmbH](https://www.bosch.de/), Software Engin
 
 ### Robert Bosch GmbH
 
+#### Software Engineer at Connected Mobility Solutions, Engineering Software Brokering Solutions
+
+07/19 - Today
+
+- Additional details may be stated after compliance approval.
+
 #### Software Engineer at Connected Mobility Solutions, Product Area Urban Mobility
 
-09/18 - Today
+09/18 - 06/19
 
 - Implementation of a Continous Delivery / Continous Integration Pipeline of multiple Corporate iOS Apps using [Microsoft Azure DevOps](https://azure.microsoft.com/en-in/services/devops/) and [Microsoft App Center](https://appcenter.ms/).
 - Architectural and technological design and implementation of multiple iOS Apps related to employee mobility.
