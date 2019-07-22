@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "To all coders that love their work (as well)"
+tags: personal
 ---
 
 I‘ve recently stumbled upon [Arabica](https://thedarkroast.com/arabica/), a beautiful because minimalistic theme for [Ghost](https://ghost.org) by Sean Lunsford.
@@ -11,9 +12,9 @@ Sometimes you see projects like this. Projects that where developers put commitm
 
 ![](https://i.imgur.com/Uc9F8EW.png)
 
-> I‘ve (probably) more or less retired it from active development, but it‘s available on GitHub for anyone who wants to it on their own Ghost blogs.
-
 This is the situation where developers are tempted to just outright „never stop" their projects by writing things like Sean did in his description.
+
+> I‘ve (probably) more or less retired it from active development, but it‘s available on GitHub for anyone who wants to it on their own Ghost blogs.
 
 It‘s a wonderful pointer at a part of the developer community of unknown size: the developers, that just love to code. And it‘s always great to spot such people.
 
