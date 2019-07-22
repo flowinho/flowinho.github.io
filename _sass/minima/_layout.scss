@@ -11,7 +11,7 @@
 
 .site-title {
   @include media-query($on-palm) {
-    margin-left: 24px;
+    margin-left: 16px;
   }
 
   @include relative-font-size(2.2);
@@ -73,12 +73,10 @@
     }
   }
 
-  @include media-query($on-laptop) {
-  }
-
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
+    margin-right: 0px;
     right: $spacing-unit / 2;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
