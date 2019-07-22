@@ -25,11 +25,11 @@ Dear readers, let me tell you something from my experiences as a worker in civil
 
 Most of the disabled people i met in my lifetime are wonderful people. They look at the world in a different, seeing beautiful things that some of us miss in their entire lifetime. They deeply care for other humans and have their own wonderful ways of being positive.
 
-When i back then had to transport food to a Kindergarten i was accompanied by a girl with Down-Syndrom. One day, we where stuck at a tradfic light that seemingly never turned to green. I began to get upset about us being delayed.
+When i back then had to transport food to a Kindergarten i was accompanied by a girl with Down-Syndrom. One day, we where stuck at a traffic light that seemingly never turned to green. I began to get upset about us being delayed.
 
 > Don't be so upset! Don't you know that there is a way to cast a spell that turns all traffic lights into green ones? It's really easy! ...[she starts to mumble a spell]...
 
-As soon as the traffic turned light she made a magical movement with her fingers and said "Hex Hex!" which is a famous quote from a german teenage novel called "Bibi Blocksberg".
+As soon as the traffic light turned green she made a magical movement with her fingers and said "Hex Hex!" which is a famous quote from a german teenage novel called "Bibi Blocksberg".
 My mommy told me that spell? Isn'it awesome?!
 
 I began laughing. You're right, it's an amazing spell. And every now and then, even today, i find myself casting that spell in my thoughts.
