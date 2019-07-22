@@ -10,8 +10,12 @@
 }
 
 .site-title {
+  @include media-query($on-palm) {
+    margin-left: 24px;
+  }
+
   @include relative-font-size(2.2);
-  margin-left: 24px;
+  margin-left: 80px;
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
@@ -25,10 +29,31 @@
   }
 }
 
+.site-tags {
+  @include relative-font-size(1.2);
+  margin-left: 24px;
+  font-weight: 300;
+  line-height: $base-line-height * $base-font-size * 2.5;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+  color: lighten($text-color, 50%);
+
+  @include media-query($on-palm) {
+    display: none;
+  }
+}
+
+.github-corner {
+  @include media-query($on-palm) {
+    display: none;
+  }
+}
+
 .site-nav {
   margin-right: 24px;
   float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $base-line-height * $base-font-size * 2.5;
 
   .nav-trigger {
     display: none;
