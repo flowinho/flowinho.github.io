@@ -39,11 +39,11 @@ The naming of these files is **case sensitive**. As the unit-tests and UI tests 
 
 Right click your newly created files and add their respective localization by clickling "Localize" in the Identity and Type Inspector in the right pane of Xcode.
 
-![](https://i.imgur.com/jYd6cox.png)
+![](https://cloud.qwerdenker.net/index.php/s/Nm9GN9G8GXB4gKY/preview)
 
 If successfull, it will display the currently available localized languages. Now use the project navigator to fill these string files with their respective content.
 
-![](https://i.imgur.com/Ghy62Om.png)
+![](https://cloud.qwerdenker.net/index.php/s/EGQSNRyN72Xedd7/preview)
 
 Example contents:
 

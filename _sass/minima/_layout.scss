@@ -2,16 +2,20 @@
  * Site header
  */
 .site-header {
-  // border-top: 5px solid $grey-color-dark;
   border-top: 5px solid $brand-color;
-  border-bottom: 1px solid $grey-color-light;
+  //border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
 .site-title {
+  @include media-query($on-palm) {
+    margin-left: 16px;
+  }
+
   @include relative-font-size(2.2);
+  margin-left: 80px;
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
@@ -25,9 +29,31 @@
   }
 }
 
+.site-tags {
+  @include relative-font-size(1.2);
+  margin-left: 24px;
+  font-weight: 300;
+  line-height: $base-line-height * $base-font-size * 2.5;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+  color: lighten($text-color, 50%);
+
+  @include media-query($on-palm) {
+    display: none;
+  }
+}
+
+.github-corner {
+  @include media-query($on-palm) {
+    display: none;
+  }
+}
+
 .site-nav {
+  margin-right: 24px;
   float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $base-line-height * $base-font-size * 2.5;
 
   .nav-trigger {
     display: none;
@@ -38,7 +64,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: lighten($text-color, 50%);
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -50,6 +76,7 @@
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
+    margin-right: 0px;
     right: $spacing-unit / 2;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
@@ -283,6 +310,20 @@
     }
   }
 }
+
+.comments-message {
+  font-size: 12.8px;
+  color: #828282;
+}
+
+.utterances {
+  width: 100%;
+
+  .timeline {
+    width: 100% !important;
+  }
+}
+
 
 .float-right {
   float: right
