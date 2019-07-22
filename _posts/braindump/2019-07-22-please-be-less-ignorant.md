@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Want to be a better person? Just be less of ignorant"
+title: "Want to be a better person? Just be less ignorant"
 tags: braindump
 ---
 
