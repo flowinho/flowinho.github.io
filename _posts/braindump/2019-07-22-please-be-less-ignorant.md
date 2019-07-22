@@ -4,12 +4,12 @@ title: "Want to be a better person? Just be less of ignorant"
 tags: braindump
 ---
 
-After a long, hot (around 30 degrees celsius) i grabbed my macbook and headed to the tram station. The walk there is kind of a maze since the station is being renovated and most paths are blocked by construction sites. I barely missed my tram, so i had to wait a while for the tram to arrive. 
+After a long, hot (around 30 degrees celsius) day i grabbed my macbook and headed to the tram station. The walk there is kind of a maze since the station is being renovated and most paths are blocked by construction sites. I barely missed my tram, so i had to wait a while for the tram to arrive. 
 A woman in her early twenties, wearing a summer-themed orange dress approached me and suddenly started to talk to me as if she knew me since forever:
 
-> You know, im going to take the next train. I'm going to Freiberg, where my mummy is waiting for me! I'm so looking forward to seeing my mummy, im going to play all day with her! 
+> You know, i'm going to take the next train. I'm going to Freiberg, where my mummy is waiting for me! I'm so looking forward to seeing my mummy, i'm going to play all day with her! 
 
-Judging from the way she talked, her gestures, etc i could easily tell that she must be mentally disabled in some way. As soon as i started talking back to her she visibly cheered up, and told me all about her mother and father, that she is going to vacation with them in a caravan next to Lake Constance and that she needs to go back to the dormitory as late as the end of August. She told how much she loved the lake, and that her father is taking her to gather beautiful stones, shells and other things.
+Judging from the way she talked, her gestures, etc i could easily tell that she must be mentally disabled in some way. As soon as i started talking back to her she visibly cheered up, and told me all about her mother and father, that she is going to vacation with them in a caravan next to Lake Constance and that she needs to go back to the dormitory as late as the end of August. She told me how much she loved the lake, and that her father is taking her to gather beautiful stones, shells and other things.
 
 She was so cheerful that i took over that vibe and told her about Scotland and the netherlands. I did not miss to mention that i am a father as well, who did similar activities with his daughters. 
 
