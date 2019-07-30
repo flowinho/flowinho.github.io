@@ -8,7 +8,7 @@ I‘ve recently stumbled upon [Arabica](https://thedarkroast.com/arabica/), a be
 
 However this post is not about the theme, but rather the words he used in the description of the theme.
 
-Sometimes you see projects like this. Projects that where developers put commitment and dedication into writing it, trying to provide a quality piece of software. Projects that, once finished, just feel wrong to be _finished_, because working on them brings enjoyment. 
+Sometimes you see projects like this. Projects where developers put commitment and dedication into writing it, trying to provide a quality piece of software. Projects that, once finished, just feel wrong to be _finished_, because working on them brings enjoyment. 
 
 ![](https://i.imgur.com/Uc9F8EW.png)
 
@@ -22,6 +22,6 @@ I myself have a project that was shut down but i never truly abandoned the code,
 
 For many of us, coding is about creation, quality and perfection. It‘s fun. It‘s craft. It‘s what we do.
 
-But please make sure not to overcommit to something. But once you‘re heart beats for something, sweet it through, embrace it and never forget: give back to your other developers. 
+But please make sure not to overcommit to something. But once you‘re heart beats for something, see it through, embrace it and never forget: give back to your other developers. 
 
 Because open source and sharing knowledge is not a method, it‘s a way of living.
