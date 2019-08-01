@@ -9,7 +9,7 @@ Feel free to contact me using on these adresses:
 - contact at flowinho dot com
 - florian at schuttkowski dot com
 
-You can find the public keys for these adresses below. Please not: the encryption of files you send me is appreciated.
+You can find the public keys for these adresses below. Please note: the encryption of files you send me is appreciated.
 
 ### OpenPGP PubKey contact at flowinho dot com
 
