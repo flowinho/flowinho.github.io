@@ -28,8 +28,16 @@ layout: default
             {% endfor %}
           </span>
         {%- if site.show_excerpts -%}
+        <div class="post-excerpt">
           {{ post.excerpt }}
+        <span>
+        <a class="post-continue-reading-link" href="{{ post.url | relative_url }}">
+          Continue reading
+        </a>
+        </span>
+        </div>
         {%- endif -%}
+
       </li>
       {%- endfor -%}
     </ul>

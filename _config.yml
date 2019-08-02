@@ -8,7 +8,7 @@ url: "https://flowinho.com" # the base hostname & protocol for your site, e.g. h
 twitter_username: flowinho
 github_username: flowinho
 microblog_username: microflow
-show_excerpts: false
+show_excerpts: true
 timezone: Europe/Berlin
 future: false
 exclude: [vendor]

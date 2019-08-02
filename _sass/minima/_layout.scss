@@ -243,7 +243,7 @@
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit * 0.5;
+    margin-bottom: $spacing-unit * 1.3;
   }
 }
 
@@ -255,6 +255,20 @@
 .post-link {
   // display: block;
   @include relative-font-size(1);
+}
+
+.post-excerpt {
+  font-size: $small-font-size;
+  color: black;
+  margin-top: 12px; 
+
+  p {
+    margin-bottom: 4px;
+  }
+}
+
+.post-continue-reading-link {
+  font-size: $small-font-size;
 }
 
 /**
