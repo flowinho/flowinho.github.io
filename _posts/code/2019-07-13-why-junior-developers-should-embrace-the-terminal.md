@@ -2,6 +2,7 @@
 layout: post
 title: "Why junior developers should embrace the terminal"
 tags: code
+excerpt: "Random fact from my life at work: I’m moving into a new office. When i phoned the person that manages the seating i told her: “Two monitors, a 34” curved, and a vertical 24”. She responded with: “What are you using the vertical display for?!"
 ---
 
 Random fact from my life at work: I’m moving into a new office. When i phoned the person that manages the seating i told her: “Two monitors, a 34” curved, and a vertical 24”. She responded with: “What are you using the vertical display for?!”

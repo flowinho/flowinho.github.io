@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Flowinho's iPad and iPhone Setup"
+title: "Interview: Flowinho's iPad and iPhone Setup"
 tags: braindump
+excerpt: "I am Florian Schuttkowski and I'm the father of two wonderful girls, that mean the world to me. When at work, my E-Mail Signature says: “Florian Schuttkowski, Connected Mobility Solutions, Software Engineering (CS/EBS)”. This indicates my field of work: my current employer is the Robert Bosch GmbH. Robert Bosch has many many subdivisions that focus on different parts of technology, not just automotive, but e.g. SmartHome, Sensory (not just the one in cars), Robotics, etc. “Connected Mobility Solutions” is my division. It was newly founded in 2018 with roundabout 600 employees to address the current problems in mobility, like too many cars, too high pollution, etc. all by trying to be the first player in the field that creates a significant impact, which has recently worked out since we are the first in the world that got green light for autonomous level 4 driving in a public car garage."
 ---
 
 ## Who are you and what do you do?

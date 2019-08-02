@@ -2,6 +2,7 @@
 layout: post
 title: "They shall not grow old - a movie that truly hit me emotionally"
 tags: personal
+excerpt: "A friend of mine invited me to the cinema as a late birthday present. He said: \"We're going to watch a movie by Peter Jackson. You'll very likely like this.\" Alright, what could possibly go wrong? Turns out - a lot."
 ---
 
 A friend of mine invited me to the cinema as a late birthday present. He said:

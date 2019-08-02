@@ -2,6 +2,8 @@
 layout: post
 title: "iOS - The surprisingly difficult way of localizing Info.plist strings"
 tags: code
+excerpt: "In a current project the app has ask the user for his permission to access the iOS location services API. In cases like this Apple specifies the requirement to display a descriptive text to user that will be issued in a popup. The popup itself is localized by the iOS system dialogs, however the string that is displayed inside is not. Apple changed how to localize these strings multiple times in the recent years.
+As it turns out, you have to create a seperate, localized file that does the work."
 ---
 
 In a current project the app has ask the user for his permission to access the iOS location services API. In cases like this Apple specifies the requirement to display a descriptive text to user that will be issued in a popup. Many of you should be familiar with these popups, that typically hold text's like:
@@ -14,7 +16,7 @@ In a current project the app has ask the user for his permission to access the i
 
 The popup itself is localized by the iOS system dialogs, however the string that is displayed inside is not. Apple changed how to localize these strings multiple times in the recent years.
 
-As it turns out, you have to create a separarte, localized `InfoPlist.strings` file that does the work. 
+As it turns out, you have to create a seperate, localized `InfoPlist.strings` file that does the work. 
 While doing for this for a project with several target configurations, mainly to distinguish DEV and PROD environments, i've encountered some weird issues regarding how Xcode handles these files, so i decided to document this process here.
 
 ## The creation of your localization file

@@ -2,6 +2,8 @@
 layout: post
 title: "Want to be a better person? Just be less ignorant"
 tags: braindump
+excerpt: "After a long, hot (around 30 degrees celsius) day i grabbed my macbook and headed to the tram station. The walk there is kind of a maze since the station is being renovated and most paths are blocked by construction sites. I barely missed my tram, so i had to wait a while for the tram to arrive. 
+A woman in her early twenties, wearing a summer-themed orange dress approached me and suddenly started to talk to me as if she knew me since forever."
 ---
 
 After a long, hot (around 30 degrees celsius) day i grabbed my macbook and headed to the tram station. The walk there is kind of a maze since the station is being renovated and most paths are blocked by construction sites. I barely missed my tram, so i had to wait a while for the tram to arrive. 

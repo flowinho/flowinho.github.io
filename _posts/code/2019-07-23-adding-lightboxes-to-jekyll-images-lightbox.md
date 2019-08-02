@@ -2,9 +2,10 @@
 layout: post
 title: "Replacing html img-tags with UIKit lightboxes"
 tags: code
+excerpt: "Some sites i've created are created utilizing Jekyll and UIKit and use markdown to write the posts. However, images are rendered as default HTML img-tags. UIKit provides this functionality but i prefer sticking to plain markdown. This script replaces default img-tags with UIKit lightboxes after the page loaded."
 ---
 
-Some sites i've created are created utilizing Jekyll and UIKit and use markdown to write the posts. However, images are rendered as default HTML img-tags. UIKit provides this functionality but i prefer sticking to plain markdown. This script replace default img-tags with UIKit lightboxes after the page loaded.
+Some sites i've created are created utilizing Jekyll and UIKit and use markdown to write the posts. However, images are rendered as default HTML img-tags. UIKit provides this functionality but i prefer sticking to plain markdown. This script replaces default img-tags with UIKit lightboxes after the page loaded.
 
 To achieve this, i needed to utilize some basic functionalities of javascript and the webbrowsers DOM, namely:
 

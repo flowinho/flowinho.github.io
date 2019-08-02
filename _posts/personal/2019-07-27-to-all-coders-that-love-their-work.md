@@ -2,6 +2,7 @@
 layout: post
 title: "To all coders that love their work (as well)"
 tags: personal
+excerpt: "Sometimes you see projects like this. Projects where developers put commitment and dedication into writing it, trying to provide a quality piece of software. Projects that, once finished, just feel wrong to be finished, because working on them brings enjoyment."
 ---
 
 I‘ve recently stumbled upon [Arabica](https://thedarkroast.com/arabica/), a beautiful because minimalistic theme for [Ghost](https://ghost.org) by Sean Lunsford.

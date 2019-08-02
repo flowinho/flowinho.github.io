@@ -2,6 +2,7 @@
 layout: post
 title: "Higher-Order functions - functional programming in Swift 5"
 tags: code
+excerpt: "Starting in a new project is also way to encounter new or already known programming approaches in a clean way. To me, this happens currently with Functional Reactive Programming. I have to admit, my skills in FRP are very rusty. My source-code heavily relies on higher order functions and for the sake of testability i seek to implement pure functions as much as possible. Nevertheless, since i'm now required to hook into this topic even more, i need to freshen up my base understanding of functional programming."
 ---
 
 Starting in a new project is also way to encounter new or already known programming approaches in a clean way. To me, this happens currently with **Functional Reactive Programming**. I have to admit, my skills in FRP are very rusty. My source-code heavily relies on higher order functions and for the sake of testability i seek to implement pure functions as much as possible. Nevertheless, since i'm now required to hook into this topic even more, i need to freshen up my base understanding of functional programming.

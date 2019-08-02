@@ -2,6 +2,7 @@
 layout: post
 title: "Why i wasted two years on blogging software instead of creating content"
 tags: personal
+excerpt: "Many of the things i learned in the recent 10-15 years about various technologies and tools have been made possible through digging through first personal blogs of nerds, later specialized websites that offered tutorials and of course, stack-overflow. But not just technical stuff, a big chick of my knowledge was attained by visiting websites in the internet, from recipes, how to repair certain things, how to book a flight, etc. So from a very early perspective, i wanted to contribute back. To write some content, that someone else also benefits from. So decided: It‘s time to start a personal blog."
 ---
 
 Many of the things i learned in the recent 10-15 years about various technologies and tools have been made possible through digging through first personal blogs of nerds, later specialized websites that offered tutorials and of course, stack-overflow. But not just technical stuff, a big chick of my knowledge was attained by visiting websites in the internet, from recipes, how to repair certain things, how to book a flight, etc. So from a very early perspective, i wanted to contribute back. To write some content, that someone else also benefits from. So decided: It‘s time to start a personal blog.

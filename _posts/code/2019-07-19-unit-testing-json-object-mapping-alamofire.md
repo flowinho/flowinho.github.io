@@ -2,6 +2,7 @@
 layout: post
 title: "Unit-testing JSON object-mapping and structure with Alamofire"
 tags: code
+excerpt: "Solving the puzzle of unit-testing JSON object and url-response-data mapping in Swift 4 can be quite the challenging objective since there a many possible ways. I’d like to share mine with you."
 ---
 
 Solving the puzzle of unit-testing JSON object and url-response-data mapping in Swift 4 can be quite the challenging objective since there a many possible ways. I’d like to share mine with you.

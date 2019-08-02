@@ -2,6 +2,7 @@
 layout: post
 title: "Dependency injection for UIViewController when using storyboards"
 tags: code
+excerpt: "Using storyboards can bring some advantages. But one of the biggest disadvantages of Storyboards is that the SB instatiates its viewcontrollers. So in order to inject dependencies we need to rely on property-injection which can get ugly. Fortunately there is an elegant way of creating a “storyboard-constructor” for UIViewController."
 ---
 
 Using storyboards can bring some advantages. But one of the biggest disadvantages of Storyboards is that the SB instatiates its viewcontrollers. So in order to inject dependencies we need to rely on property-injection which can get ugly. Fortunately there is an elegant way of creating a “storyboard-constructor” for UIViewController.
