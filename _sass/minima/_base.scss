@@ -43,7 +43,9 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-
+em {
+  color: $text-color !important;
+}
 
 /**
  * `main` element
