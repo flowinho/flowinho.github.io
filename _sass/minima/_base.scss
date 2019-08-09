@@ -71,6 +71,25 @@ margin-right: auto;
 }
 
 
+span.img {
+  display: inline-block;
+}
+
+.tag-image {
+  display: inline-block;
+  height: 24px;
+  width: 24px;
+  position: relative;
+  bottom: -6px;
+}
+
+.tag-image-header {
+  display: inline-block;
+  height: 48px;
+  width: 48px;
+  position: relative;
+  bottom: -6px;
+}
 
 /**
  * Figures
