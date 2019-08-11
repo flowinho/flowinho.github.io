@@ -11,6 +11,11 @@ Feel free to contact me using on these adresses:
 
 You can find the public keys for these adresses below. Please note: the encryption of files you send me is appreciated.
 
+### Public Key Files
+
+- [contact_at_flowinho_dot_com.asc]({{"/assets/pgp/contact_at_flowinho_dot_com.asc"|relative_url}})
+- [florian_at_schuttkowski_com.asc]({{"/assets/pgp/florian_at_schuttkowski_com.asc"|relative_url}})
+
 ### OpenPGP PubKey contact at flowinho dot com
 
 ```bash
