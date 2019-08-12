@@ -15,36 +15,21 @@ layout: default
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b-%d-%Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
         <span>
           <a class="post-link" href="{{ post.url | relative_url }}">
-
-            {% for tag in post.tags %}
-              {% capture tag_name %}{{ tag }}{% endcapture %}
-                {% if tag_name == "code" %}
-                  &nbsp;<span class="tag-image"><img src="{{"/assets/NuvolaGPL/C30_Konsole.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "games" %}
-                  &nbsp;<span class="tag-image"><img src="{{"/assets/NuvolaGPL/C62_Tux.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "personal" %}
-                  &nbsp;<span class="tag-image"><img src="{{"/assets/NuvolaGPL/C05_Edu_Languages.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "privacy" %}
-                  &nbsp;<span class="tag-image"><img src="{{"/assets/NuvolaGPL/C58_KGPG.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "security" %}
-                  &nbsp;<span class="tag-image"><img src="{{"/assets/NuvolaGPL/C13_KGPG_Key3.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "apps" %}
-                  &nbsp;<span class="tag-image"><img src="{{"/assets/NuvolaGPL/C06_KCMDF.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "braindump" %}
-                  &nbsp;<span class="tag-image"><img src="{{"/assets/NuvolaGPL/C44_KNotes.png" | relative_url}}"></span>&nbsp;
-                {% endif %}
-            {% endfor %}{{ post.title | escape }}
+            {{ post.title | escape }}
           </a>
         </span>
         <span class="float-right">
+
+
             {% for tag in post.tags %}
               {% capture tag_name %}{{ tag }}{% endcapture %}
               [<a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>]
             {% endfor %}
           </span>
+          <br />
+           <span class="post-meta">{{ post.date | date: date_format }}</span>
         {%- if site.show_excerpts -%}
         <div class="post-excerpt">
           {{ post.excerpt }} <br />

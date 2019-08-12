@@ -139,11 +139,12 @@ a {
 
   &:visited {
     color: darken($brand-color, 15%);
+     text-decoration: none;
   }
 
   &:hover {
     color: $text-color;
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   .social-media-list &:hover {
@@ -155,7 +156,11 @@ a {
   }
 }
 
-
+.post-content {
+  a {
+    text-decoration: underline;
+  }
+}
 /**
  * Blockquotes
  */
@@ -173,7 +178,7 @@ blockquote {
   @include relative-font-size(1.125);
   letter-spacing: -1px;
   // font-style: italic;
-  background-color: lighten($color: $brand-color, $amount: 55%);
+  //background-color: lighten($color: $brand-color, $amount: 55%);
 
   > :last-child {
     margin-bottom: 0;

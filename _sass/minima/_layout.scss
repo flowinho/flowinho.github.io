@@ -258,6 +258,7 @@
 .post-link {
   // display: block;
   @include relative-font-size(1);
+  margin-bottom: -4px;
 }
 
 .post-excerpt {

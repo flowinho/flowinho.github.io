@@ -6,24 +6,6 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">
-      {% for tag in page.tags %}
-              {% capture tag_name %}{{ tag }}{% endcapture %}
-                {% if tag_name == "code" %}
-                  &nbsp;<span class="tag-image-header"><img src="{{"/assets/NuvolaGPL/C30_Konsole.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "games" %}
-                  &nbsp;<span class="tag-image-header"><img src="{{"/assets/NuvolaGPL/C62_Tux.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "personal" %}
-                  &nbsp;<span class="tag-image-header"><img src="{{"/assets/NuvolaGPL/C05_Edu_Languages.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "privacy" %}
-                  &nbsp;<span class="tag-image-header"><img src="{{"/assets/NuvolaGPL/C58_KGPG.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "security" %}
-                  &nbsp;<span class="tag-image-header"><img src="{{"/assets/NuvolaGPL/C13_KGPG_Key3.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "apps" %}
-                  &nbsp;<span class="tag-image-header"><img src="{{"/assets/NuvolaGPL/C06_KCMDF.png" | relative_url}}"></span>&nbsp;
-                {% elsif tag_name == "braindump" %}
-                  &nbsp;<span class="tag-image-header"><img src="{{"/assets/NuvolaGPL/C44_KNotes.png" | relative_url}}"></span>&nbsp;
-                {% endif %}
-            {% endfor %}
       {{ page.title | escape }}
     </h1>
     <p class="post-meta">
