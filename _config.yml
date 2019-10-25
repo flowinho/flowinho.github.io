@@ -1,13 +1,11 @@
-title: "Flowinho"
-email: contact@flowinho.com
+title: "Florian Schutkowski"
+email: flo@fschuttkowski.xyz
 author: Florian Schuttkowski
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey there. I'm a loving father, part-time podcaster and iOS developer from southern Germany.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://flowinho.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fschuttkowski.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: flowinho
 github_username: flowinho
-microblog_username: microflow
 show_excerpts: false
 timezone: Europe/Berlin
 future: false
