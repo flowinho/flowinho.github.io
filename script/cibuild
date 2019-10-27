@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-set -e # halt script on error
-
-chmod +x ./script/jekyll-rebuild.sh
-bundle exec jekyll build
-
