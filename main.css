@@ -1,7 +1,16 @@
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Regular.ttf')
+}
+
 html, body, h1, h2 { margin: 0; padding: 0; } 
 
 body {
     border-top: 3px solid black;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 #container {
@@ -20,7 +29,7 @@ body {
 }
 
 #content {
-    background-color: brown;
+    background-color:whitesmoke;
     height: 500px;
     position: relative;
 }
@@ -33,14 +42,15 @@ body {
 }
 
 #text {
-    background-color: maroon;
     margin-right: 24px;
     margin-left: 24px;
     margin-top: 24px;
+    font-family: 'Roboto', sans-serif;
 }
 
 #footer {
-    background-color: lawngreen;
+    background-color: #f2f2f2;
+    border-top: 1px solid #d9d9d9;
 }
 .centered-horizontally {
     display: block;
@@ -74,6 +84,7 @@ body {
       float: left;
       width: 40%;
       height: 100%;  
+      border-right: -3px solid black;
     }
 
     #image {
@@ -137,7 +148,7 @@ body {
   animation: animStar 150s linear infinite;
 }
 #stars3:after {
-  content: "e ";
+  content: " ";
   position: absolute;
   top: 2000px;
   background: transparent;
